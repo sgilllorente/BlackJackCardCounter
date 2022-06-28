@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654847368 source:c:\users\sergi\desktop\cardcountertrainner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+
